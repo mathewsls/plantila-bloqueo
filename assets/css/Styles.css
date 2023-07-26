@@ -1,0 +1,146 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+.logo img {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+.Link {
+    text-decoration: solid;
+    font-size: 15px;
+}
+
+
+.TituloCotizacion {
+    max-width: 300px;
+    max-height: 40px;
+    text-align: center;
+    color: #57585a;
+    background-color: #e7e5e5;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 10px;
+    padding: 1px;
+}
+
+
+.tabla-sara {
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.tabla-sara .logo-sara{
+    
+}
+.tabla-sara td {
+    background-color: #e7e5e5;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.logo-sara {
+    text-align: center;
+    background-color: white;
+    height: 40px;
+}
+
+.titulo {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+.texto {
+    font-size: 9px;
+}
+
+.TituloPlanes {
+    
+    margin-top: 10px;
+    max-width: 300px;
+    max-height: 40px;
+    text-align: center;
+    color: #57585a;
+    background-color: #e7e5e5;
+    margin-bottom: 0px;
+    font-size: 10px;
+    padding: 1px;
+    text-transform: uppercase;
+
+}
+
+.Descripcion {
+    border: #e7e5e5;
+    border-style: solid;
+    width: 102%;
+    
+   
+}
+.Descripcion p {
+    text-align: left;
+    font-size: 15px;
+    font-weight: 300;
+    
+    padding: 20px 20px 20px 100px;
+}
+
+.seccion li span {
+    text-transform: uppercase;
+}
+.viva-logo img {
+    width: 100%;
+    height: 100%;
+}
+.subtitle {
+    font-weight: bold;
+}
+
+
+.tabla {
+    empty-cells: hide;
+    border-collapse: separate;
+    border-spacing: 2px;
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+.logo2 {
+    margin-top: 50px;
+}
+.tabla tr td a {
+    margin-left: 100px;
+}
+.medio  {
+    margin-top: 100px;
+}
+
+.TituloObservaciones {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+}
+.Titulo {
+    max-width: 300px;
+    max-height: 20px;
+    text-align: center;
+    color: #57585a;
+    background-color: #e7e5e5;
+    margin-bottom: 0px;
+    font-size: 10px;
+    
+    margin-right: -2%;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.precio {
+   margin-left: 50px;
+}
+.contenedor {
+    margin: auto;
+    max-width: 1000px;
+}
